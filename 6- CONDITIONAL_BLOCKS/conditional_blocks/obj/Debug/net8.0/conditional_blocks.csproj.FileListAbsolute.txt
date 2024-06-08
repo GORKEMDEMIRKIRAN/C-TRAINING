@@ -1,0 +1,14 @@
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\bin\Debug\net8.0\conditional_blocks.exe
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\bin\Debug\net8.0\conditional_blocks.deps.json
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\bin\Debug\net8.0\conditional_blocks.runtimeconfig.json
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\bin\Debug\net8.0\conditional_blocks.dll
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\bin\Debug\net8.0\conditional_blocks.pdb
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\conditional_blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\conditional_blocks.AssemblyInfoInputs.cache
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\conditional_blocks.AssemblyInfo.cs
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\conditional_blocks.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\conditional_blocks.dll
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\refint\conditional_blocks.dll
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\conditional_blocks.pdb
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\conditional_blocks.genruntimeconfig.cache
+C:\Users\gorke\Desktop\C# BTK\conditional_blocks\obj\Debug\net8.0\ref\conditional_blocks.dll

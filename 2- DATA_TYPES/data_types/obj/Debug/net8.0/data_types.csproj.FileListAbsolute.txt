@@ -1,0 +1,14 @@
+C:\Users\gorke\Desktop\C# BTK\data_types\bin\Debug\net8.0\data_types.exe
+C:\Users\gorke\Desktop\C# BTK\data_types\bin\Debug\net8.0\data_types.deps.json
+C:\Users\gorke\Desktop\C# BTK\data_types\bin\Debug\net8.0\data_types.runtimeconfig.json
+C:\Users\gorke\Desktop\C# BTK\data_types\bin\Debug\net8.0\data_types.dll
+C:\Users\gorke\Desktop\C# BTK\data_types\bin\Debug\net8.0\data_types.pdb
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\data_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\data_types.AssemblyInfoInputs.cache
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\data_types.AssemblyInfo.cs
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\data_types.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\data_types.dll
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\refint\data_types.dll
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\data_types.pdb
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\data_types.genruntimeconfig.cache
+C:\Users\gorke\Desktop\C# BTK\data_types\obj\Debug\net8.0\ref\data_types.dll

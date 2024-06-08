@@ -1,0 +1,14 @@
+C:\Users\gorke\Desktop\C# BTK\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\gorke\Desktop\C# BTK\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\gorke\Desktop\C# BTK\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\gorke\Desktop\C# BTK\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\gorke\Desktop\C# BTK\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\ref\Loops.dll
