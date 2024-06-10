@@ -12,3 +12,11 @@ C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\refint\Loops.dll
 C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.pdb
 C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
 C:\Users\gorke\Desktop\C# BTK\Loops\obj\Debug\net8.0\ref\Loops.dll
+C:\Users\gorke\Desktop\C# TRAINING\7- LOOPS\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\Desktop\C# TRAINING\7- LOOPS\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\gorke\Desktop\C# TRAINING\7- LOOPS\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\gorke\Desktop\C# TRAINING\7- LOOPS\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\C# TRAINING\7- LOOPS\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+C:\Users\gorke\Desktop\C# TRAINING\7- LOOPS\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\gorke\Desktop\C# TRAINING\7- LOOPS\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\gorke\Desktop\C# TRAINING\7- LOOPS\Loops\obj\Debug\net8.0\Loops.pdb

@@ -12,3 +12,18 @@ C:\Users\gorke\Desktop\C# BTK\file_management\obj\Debug\net8.0\refint\file_manag
 C:\Users\gorke\Desktop\C# BTK\file_management\obj\Debug\net8.0\file_management.pdb
 C:\Users\gorke\Desktop\C# BTK\file_management\obj\Debug\net8.0\file_management.genruntimeconfig.cache
 C:\Users\gorke\Desktop\C# BTK\file_management\obj\Debug\net8.0\ref\file_management.dll
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\bin\Debug\net8.0\file_management.exe
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\bin\Debug\net8.0\file_management.deps.json
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\bin\Debug\net8.0\file_management.runtimeconfig.json
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\bin\Debug\net8.0\file_management.dll
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\bin\Debug\net8.0\file_management.pdb
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\file_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\file_management.AssemblyInfoInputs.cache
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\file_management.AssemblyInfo.cs
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\file_management.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\file_management.sourcelink.json
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\file_management.dll
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\refint\file_management.dll
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\file_management.pdb
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\file_management.genruntimeconfig.cache
+C:\Users\gorke\Desktop\C# TRAINING\8- FILE_MANAGEMENT\file_management\obj\Debug\net8.0\ref\file_management.dll

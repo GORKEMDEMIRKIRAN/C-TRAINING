@@ -177,10 +177,19 @@ namespace ConsoleApp{
                 Console.WriteLine(plakalar[34]);
             }
 
+            foreach(KeyValuePair<int,string> plaka in plakalar){
+                Console.WriteLine(plaka.Key + " " + plaka.Value);
+            }
+
+            // update
+            sayılar[1]="one";
+            // sayılar.Remove(1);
+
+            // İçini tamamen temizlemek için kullanılır.
+            // sayılar.Clear();
+
+            Console.WriteLine(sayılar[1]);
             
-
-
-
 
 
 
